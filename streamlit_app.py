@@ -3,6 +3,9 @@ import numpy as np
 import pandas as pd
 import altair as alt
 
+
+st.title("this is donghee title")
+st.markdown("hahaha")
 # Page title
 st.set_page_config(page_title='Interactive Data Explorer', page_icon='📊')
 st.title('📊 Interactive Data Explorer')
